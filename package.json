@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-mern",
+  "version": "1.0.0",
+  "description": "### Now starting the e-commerce solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hawaiideveloper/e-commerce-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hawaiideveloper/e-commerce-mern/issues"
+  },
+  "homepage": "https://github.com/Hawaiideveloper/e-commerce-mern#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
